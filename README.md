@@ -1,7 +1,7 @@
 # Smart Polygon Selection
 
 ## This is a smart polygon selection application from image.
-Live link : [https://priceless-poincare-e64ee1.netlify.app/]
+Live link : [https://festive-kowalevski-e2e615.netlify.app/]
 ## Technology used : 
 1.React.js
 
