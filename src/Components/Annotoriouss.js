@@ -17,7 +17,6 @@ const Annotoriouss = () => {
 
       const imgEl = useRef();
       const [ anno, setAnno ] = useState();
-      const [ tool, setTool ] = useState('rect');
 
 
       useEffect(() => {
